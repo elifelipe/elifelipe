@@ -28,8 +28,4 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 
-## 📫 Entre em Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliifelipe/) || [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/elifelipesouza) || [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/eliifelipe) || [![Jovemia](https://img.shields.io/badge/Jovemia-0A0A0A?style=for-the-badge&logo=Jovemia&logoColor=white)](https://jovemia.com/)
-
-
  Mande um ♥ [Email](mailto:elifelipe@hotmail.com) .
